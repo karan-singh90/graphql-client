@@ -1,4 +1,4 @@
-# grapghqlpocclient
+# graphqlpocclient
 
 postman api for client
 
